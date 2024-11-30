@@ -28,9 +28,5 @@ This repository contains a curated collection of videos covering various technic
 
 
 
-## How to Use
-1. Browse the folders to access topic-specific materials.
-2. Download slides and watch the videos for each topic.
-
 ## License
 The content is available under [MIT License](LICENSE).

@@ -15,7 +15,7 @@ This repository contains a curated collection of videos, and documents covering 
 
 3. **Introduction to Cosmos Blockchain**
    - [Video (MP4)](https://www.aparat.com/v/rI2z8)
-   - 
+   
 4. **A Defense Framework Against DDoS Attacks Using Game Theory**
    - [Video (MP4)](https://www.youtube.com/watch?v=-8fHVWVFCeY)
   

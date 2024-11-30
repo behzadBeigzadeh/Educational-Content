@@ -2,7 +2,7 @@
 # Educational Content Collection
 
 ## Overview
-This repository contains a curated collection of videos, and documents covering various technical and educational topics. The materials are organized into topic-based folders for easy navigation.
+This repository contains a curated collection of videos covering various technical and educational topics.
 
 ## Topics
 
